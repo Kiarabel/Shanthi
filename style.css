@@ -29,6 +29,9 @@ a:hover {
 }
 
 .get-to-know {
-    text-align: center;
+    text-align: right;
     background-image: url(images/gettoknow.jpg);
+    max-width: 1169px;
+    max-height: 401px;
 }
+
