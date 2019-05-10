@@ -8,9 +8,6 @@ body {
     background: transparent;
 }
 
-.navbar-inner {
-    background:transparent;
-}
 
 a {
     color: #884b9b;
@@ -32,6 +29,6 @@ a:hover {
 }
 
 .get-to-know {
-    text-align: right;
+    text-align: center;
     background-image: url(images/gettoknow.jpg);
 }
