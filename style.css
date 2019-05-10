@@ -28,6 +28,12 @@ a:hover {
     max-width: 1412px;
 }
 
+.h1 {
+    float: left;
+    font-family: 'Lora', serif;
+    font-size: 5em;
+}
+
 .get-to-know {
     text-align: right;
     background-image: url(images/gettoknow.jpg);
