@@ -24,8 +24,14 @@ a:hover {
 .herobg {
     height: 662px;
     background: url("images/head.jpg") no-repeat center center;
-    background-size: cover;
     max-width: 1412px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    margin-top: 0;
 }
 
 .h1 {
@@ -37,5 +43,6 @@ a:hover {
 .get-to-know {
     text-align: right;
     background-image: url(images/gettoknow.jpg);
+     background: url("images/Shanthi.png") no-repeat;
 }
 
