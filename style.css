@@ -1,0 +1,37 @@
+body {
+    background-color: #fff8ff;
+}
+
+.navbar {
+    font-size: 1em;
+    margin-bottom: 0px;
+    background: transparent;
+}
+
+.navbar-inner {
+    background:transparent;
+}
+
+a {
+    color: #884b9b;
+}
+
+a:hover {
+    color: #884b9b;
+}
+
+.navbar.nav li a:hover {
+    background-color: transparent;
+}
+
+.herobg {
+    height: 662px;
+    background: url("images/head.jpg") no-repeat center center;
+    background-size: cover;
+    max-width: 1412px;
+}
+
+.get-to-know {
+    text-align: right;
+    background-image: url(images/gettoknow.jpg);
+}
