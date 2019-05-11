@@ -36,13 +36,45 @@ a:hover {
 
 .h1 {
     float: left;
-    font-family: 'Lora', serif;
+    font-family: 'Lora';
     font-size: 5em;
+    color: #884b9b;
 }
+
 
 .get-to-know {
     text-align: right;
     background-image: url(images/gettoknow.jpg);
-   
+    padding-top: 80px;  
+}
+
+.btn-about {
+    border: none;
+    color:white;
+    background-color: #e88d32;
+    float: right;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.handmadetext{
+    padding-bottom: 30px;
+}
+
+.cardsselection{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.cardstext{
+    padding-top: 20px;
+    padding-bottom:30px;
+}
+.btn-shopnow {
+      border: none;
+    color:white;
+    background-color: #e88d32;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;  
 }
 
