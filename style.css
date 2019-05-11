@@ -6,6 +6,7 @@ body {
     font-size: 1em;
     margin-bottom: 0px;
     background: transparent;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -36,13 +37,78 @@ a:hover {
 
 .h1 {
     float: left;
-    font-family: 'Lora', serif;
+    font-family: 'Lora';
     font-size: 5em;
+    color: #884b9b;
 }
+
+
 
 .get-to-know {
     text-align: right;
     background-image: url(images/gettoknow.jpg);
-     background: url("images/Shanthi.png") no-repeat;
+    padding-top: 15px;
+     font-family: 'Open Sans', sans-serif;
 }
 
+.gettoknow-title{
+    padding-top: 50px;
+}
+
+.gettoknow-body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-about {
+    border: none;
+    color:white;
+    background-color: #e88d32;
+    float: right;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.handmadetext{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.cardsselection{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.cardstext{
+    padding-top: 20px;
+    padding-bottom:30px;
+    text-align: center;
+     font-family: 'Open Sans', sans-serif;
+}
+.btn-shopnow {
+      border: none;
+    color:white;
+    background-color: #e88d32;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;  
+}
+
+.dancing {
+    background-color: #eacce6;
+    padding-bottom: 200px;
+    padding-top: 40px;
+}
+.btn-dance {
+    border: none;
+    color:white;
+    background-color: #e88d32;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;  
+}
+
+.footerbg {
+    background-color: #4c1647;
+color: white;
+    padding-top: 30px;
+}
