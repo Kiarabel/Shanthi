@@ -59,16 +59,19 @@ a:hover {
 
 .handmadetext{
     padding-bottom: 30px;
+    text-align: center;
 }
 
 .cardsselection{
     text-align: center;
     padding-top: 30px;
+    text-align: center;
 }
 
 .cardstext{
     padding-top: 20px;
     padding-bottom:30px;
+    text-align: center;
 }
 .btn-shopnow {
       border: none;
