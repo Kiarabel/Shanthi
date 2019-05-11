@@ -47,8 +47,12 @@ a:hover {
 .get-to-know {
     text-align: right;
     background-image: url(images/gettoknow.jpg);
-    padding-top: 80px;
+    padding-top: 15px;
      font-family: 'Open Sans', sans-serif;
+}
+
+.gettoknow-title{
+    padding-top: 50px;
 }
 
 .gettoknow-body {
