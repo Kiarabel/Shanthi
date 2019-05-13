@@ -35,14 +35,21 @@ a:hover {
     margin-top: 0;
 }
 
-.h1 {
+.col-md-7 {
     float: left;
     font-family: 'Lora';
     font-size: 5em;
     color: #884b9b;
+    margin-top: 200px;
 }
 
-
+.btn-shop {
+    border: none;
+    color:white;
+    background-color: #e88d32;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
 
 .get-to-know {
     text-align: right;
