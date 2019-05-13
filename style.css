@@ -48,15 +48,19 @@ a:hover {
     text-align: right;
     background-image: url(images/gettoknow.jpg);
     padding-top: 15px;
-     font-family: 'Open Sans', sans-serif;
+     font-family: 'Montserrat', sans-serif;
 }
 
 .gettoknow-title{
     padding-top: 50px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .gettoknow-body {
-    font-family: 'Open Sans', sans-serif;
+    padding-top: 25px;
+    padding-bottom:20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
 }
 
 .btn-about {
@@ -78,13 +82,16 @@ a:hover {
     padding-top: 30px;
     padding-bottom: 50px;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .cardstext{
     padding-top: 20px;
     padding-bottom:30px;
+    padding-left: 100px;
+    padding-right: 100px;
     text-align: center;
-     font-family: 'Open Sans', sans-serif;
+     font-family: 'Montserrat', sans-serif;
 }
 .btn-shopnow {
       border: none;
@@ -96,15 +103,30 @@ a:hover {
 
 .dancing {
     background-color: #eacce6;
-    padding-bottom: 200px;
+    padding-bottom: 40px;
     padding-top: 40px;
+    font-family: 'Montserrat', sans-serif;
 }
+
+.dancetitle {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.dancetext {
+    padding-bottom: 10px;
+}
+
 .btn-dance {
     border: none;
     color:white;
     background-color: #e88d32;
     padding: 10px;
     font-family: 'Open Sans', sans-serif;  
+}
+
+.video {
+    padding-top: 30px;
 }
 
 .footerbg {
