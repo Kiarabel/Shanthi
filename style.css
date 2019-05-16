@@ -7,24 +7,23 @@ body {
     margin-bottom: 0px;
     background: transparent;
     font-family: 'Open Sans', sans-serif;
-    height: 108px;
+    height: 72px;
+    width: auto;
 }
 
-.navbar-header {
-    height: 108px;
-}
 
+.navbar-brand {
+    width: 108px;
+    height: 72;
+    padding: 0px;
+}
 
 a {
     color: #884b9b;
 }
 
-a:hover {
+.navbar a:hover {
     color: #884b9b;
-}
-
-.navbar.nav li a:hover {
-    background-color: transparent;
 }
 
 .herobg {
