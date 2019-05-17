@@ -1,5 +1,5 @@
 body {
-    background-color: #fff8ff;
+    background-color: #fff;
 }
 
 .navbar {
@@ -9,6 +9,11 @@ body {
     font-family: 'Open Sans', sans-serif;
     height: 72px;
     width: auto;
+}
+
+.nav {
+    padding-top: 10px;
+    padding-left: 0px;
 }
 
 
@@ -102,6 +107,7 @@ a {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     max-width: 1412px;
+    background-color: #fff8ff;
 }
 
 .cardstext{
