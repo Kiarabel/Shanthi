@@ -163,8 +163,13 @@ a {
 
 /*about*/
 
-.p {
+.about {
+    font-family: 'Lora', sans-serif;
+}
+
+.text {
     font-family: 'Montserrat', sans-serif;
+    text-align: justify;
 }
 
 /*footer*/
