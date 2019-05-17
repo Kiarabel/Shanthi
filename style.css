@@ -18,6 +18,14 @@ body {
     padding-left: 0px;
 }
 
+.navbar-toggle {
+    background-color: #fff8ff;
+    border: none;
+    margin-top: 15px;
+    color: black;
+    font-size: 12em;
+    
+}
 
 .navbar-brand {
     width: 108px;
@@ -36,7 +44,7 @@ a {
 .herobg {
     height: 662px;
     background: url("images/head.jpg") no-repeat center center;
-/*    max-width: 1412px;*/
+    /*    max-width: 1412px;*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -47,20 +55,20 @@ a {
 }
 
 .h12 {
-/*    float: left;*/
+    /*    float: left;*/
     font-family: 'Lora';
     font-size: 5em;
     color: #884b9b;
     margin-top: 15%;
     padding-left: 0px;
-/*    margin-right: 1200px;*/
+    /*    margin-right: 1200px;*/
     padding-bottom: 20px;
-    width:55%;
+    width: 55%;
 }
 
 .btn-shop {
     border: none;
-    color:white;
+    color: white;
     background-color: #e88d32;
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
@@ -77,61 +85,62 @@ a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-/*    width: 1412px;*/
+    /*    width: 1412px;*/
 }
 
-.gettoknow-title{
+.gettoknow-title {
     padding-top: 50px;
     font-family: 'Montserrat', sans-serif;
 }
 
 .gettoknow-body {
     padding-top: 25px;
-    padding-bottom:20px;
+    padding-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5em;
 }
 
 .btn-about {
     border: none;
-    color:white;
+    color: white;
     background-color: #e88d32;
     float: right;
     padding: 10px;
     font-family: 'Open Sans', sans-serif;
 }
 
-.handmadetext{
+.handmadetext {
     padding-bottom: 30px;
     text-align: center;
 }
 
-.cardsselection{
+.cardsselection {
     text-align: center;
     padding-top: 30px;
     padding-bottom: 50px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-/*    max-width: 1412px;*/
+    /*    max-width: 1412px;*/
     background-color: #fff8ff;
 }
 
-.cardstext{
+.cardstext {
     padding-top: 20px;
-    padding-bottom:30px;
-/*
+    padding-bottom: 30px;
+    /*
     padding-left: 100px;
     padding-right: 100px;
 */
     text-align: center;
-     font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
+
 .btn-shopnow {
-      border: none;
-    color:white;
+    border: none;
+    color: white;
     background-color: #e88d32;
     padding: 10px;
-    font-family: 'Open Sans', sans-serif;  
+    font-family: 'Open Sans', sans-serif;
 }
 
 .dancing {
@@ -139,7 +148,7 @@ a {
     padding-bottom: 40px;
     padding-top: 40px;
     font-family: 'Montserrat', sans-serif;
-/*    max-width: 1412px;*/
+    /*    max-width: 1412px;*/
 }
 
 .dancetitle {
@@ -153,10 +162,10 @@ a {
 
 .btn-dance {
     border: none;
-    color:white;
+    color: white;
     background-color: #e88d32;
     padding: 10px;
-    font-family: 'Open Sans', sans-serif;  
+    font-family: 'Open Sans', sans-serif;
 }
 
 .video {
@@ -179,31 +188,31 @@ a {
 
 .footerbg {
     background-color: #4c1647;
-color: white;
+    color: white;
     padding-top: 30px;
 }
 
 
 .secondnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+
 }
 
 /*shop*/
 
 li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
 }
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #555;
-  color: white;
+    background-color: #555;
+    color: white;
 }
