@@ -24,7 +24,14 @@ body {
     margin-top: 15px;
     color: black;
     font-size: 12em;
-    
+    }
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width:22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #884b9b;
 }
 
 .navbar-brand {
@@ -218,4 +225,5 @@ li a:hover {
     background-color: #555;
     color: white;
 }
+
 
