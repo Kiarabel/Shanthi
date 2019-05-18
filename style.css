@@ -201,7 +201,6 @@ a {
 }
 
 
-
 /*shop*/
 
 .secondnav {
@@ -213,7 +212,7 @@ a {
 
 }
 
-li a {
+li {
     display: block;
     color: #000;
     padding: 8px 16px;
