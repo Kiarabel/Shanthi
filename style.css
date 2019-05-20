@@ -14,7 +14,6 @@ body {
 }
 
 .nav {
-    padding-top: 10px;
     padding-left: 0px;
 }
 
@@ -198,6 +197,10 @@ a {
     background-color: #4c1647;
     color: white;
     padding-top: 30px;
+}
+
+.terms {
+    text-align: right;
 }
 
 
